@@ -16,3 +16,7 @@ The STM method works by:
 4. **Fast Prediction**: Once the STM is built, new excitation conditions can be evaluated almost instantly through matrix-vector multiplication, predicting surface velocities and far-field sound power.
 
 ![STM computation steps](Figure_5_STM_method.pdf)
+
+
+pySDEM module based on 
+https://doi.org/10.1137/24M1633911
