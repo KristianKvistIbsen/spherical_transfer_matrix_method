@@ -1,6 +1,6 @@
 # Spherical Transfer Matrix Method (STM)
 
-![Conceptual idea behind STM method](Figure_1_physical_and_analogous_systems.pdf)
+![Conceptual idea behind STM method](Figure_0_graphical_abstract_STM.pdf)
 
 ## Introduction
 
